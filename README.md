@@ -40,13 +40,16 @@ For each DCA and each track you can choose which parameter you want to link. Aft
 * -S means solo is linked
 
 
+
 * -s means sends are linked
 * -sA to -sL means individual send A to L is linked
+
 
 
 * --v means volume is excluded (not linked) 
 * --p means panning is excluded
 * and so on
+
 
 
 * -iv means volume is linked and inverted : a positive change of the master will result as a negative change in the slave

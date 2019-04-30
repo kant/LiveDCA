@@ -5,7 +5,7 @@ The masters and slaves parameters are defined by the name of the tracks, command
 
 In Live version 9.2 and under, the changes are updated by the native update_display() method called every 100ms or so. It can therefore be uneven
 
-From Live version 9.5+ the new Live.Base.Timer method is used and thus DCA changes are much smoother.
+From Live version 9.5+ the new Live.Base.Timer object is used and thus DCA changes are much smoother.
 
 
 

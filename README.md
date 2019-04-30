@@ -33,33 +33,24 @@ Options
 -------
 For each DCA and each track you can choose which parameter you want to link. After the key part in the track name, you can specify options after - to set up parameters and link direction.
 
--v means volume is linked
-
--p means panning is linked
-
--m means mute is linked
-
--a means arm is linked
-
--S means solo is linked
+*-v means volume is linked
+*-p means panning is linked
+*-m means mute is linked
+*-a means arm is linked
+*-S means solo is linked
 
 
--s means sends are linked
-
--sA to -sL means individual send A to L is linked
-
+*-s means sends are linked
+*-sA to -sL means individual send A to L is linked
 
 
---v means volume is excluded (not linked) 
-
---p means panning is excluded
-
-and so on
+*--v means volume is excluded (not linked) 
+*--p means panning is excluded
+*and so on
 
 
--iv means volume is linked and inverted : a positive change of the master will result as a negative change in the slave
-
-same thing for -ip, -im, -ia, -iS, -is, -isA to -isL
+*-iv means volume is linked and inverted : a positive change of the master will result as a negative change in the slave
+*same thing for -ip, -im, -ia, -iS, -is, -isA to -isL
 
 
 I've included aliases : -l or -L mean -p  and -r or -R mean -ip

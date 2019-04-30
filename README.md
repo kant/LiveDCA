@@ -14,6 +14,7 @@ Installation
 * Checkout the master branch
 * Rename LiveDCA-master to LiveDCA
 * Move the folder to /Applications/Live xxxx/Contents/App-Resources/MIDI Remote Scripts
+* In Live preferences / Midi click a drop down list under Control Surface and select LiveDCA
 
 
 

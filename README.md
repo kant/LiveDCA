@@ -27,7 +27,7 @@ For example if a track is named "Piano / Key /All" , it is master of the DCA nam
 
 Note that the spaces at the beginning and the end are irrelevant.
 
-Also note that the changes are relative. They are for the moment linear and not yet exponantial, therefore the relative levels may not be always accurate...
+Also note that the changes are relative. They are for the moment linear and not yet exponential, therefore the relative levels may not be always accurate...
 
 
 Options
